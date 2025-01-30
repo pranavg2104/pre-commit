@@ -2,7 +2,7 @@
     Addition of two numbers
 """
 
-NUM1 = 7
+NUM3 = 7
 NUM2 = 8
 
-print(NUM1+NUM2)
+print(NUM3+NUM2)
